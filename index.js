@@ -69,3 +69,4 @@ console.log("hola mundo x68");
 console.log("hola mundo x69");
 console.log("hola mundo x70");
 console.log("hola mundo x71");
+console.log("hola mundo x72");
