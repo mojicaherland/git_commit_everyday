@@ -2,7 +2,7 @@ public static void Main(String args[]){
       console.log("hola mundo");
 }
 
-Public Class Persona{
+public Class Persona{
    String nombre;
    String apellido;
    int edad;
